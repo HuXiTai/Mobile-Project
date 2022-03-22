@@ -5,6 +5,14 @@
 /.pnp
 .pnp.js
 
+/api
+/pages
+/regs
+/routes
+.App.jsx
+.index.js
+.setupProxy.js
+
 # testing
 /coverage
 
